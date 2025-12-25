@@ -1,0 +1,12 @@
+{
+  "maxInheritanceDepth" : 2,
+  "avgInheritanceDepth" : 1.5,
+  "avgOverriddenMethods" : 0.0,
+  "avgFields" : 1.0,
+  "abcResults" : {
+    "assignments" : 6,
+    "branches" : 7,
+    "conditions" : 7,
+    "score" : 11.575836902790225
+  }
+}
